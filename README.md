@@ -25,9 +25,12 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![Screenshot from 2023-05-27 09-21-11](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/8bfa5709-759d-4fe3-8426-c99797b03411)
+![Screenshot from 2023-05-27 09-21-14](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/11b91dec-13c5-45d4-8a6e-30b9c2148ce4)
 
 
 ## OUTPUT
+![Screenshot from 2023-05-27 09-21-08](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/1d9d4aee-dd96-4406-89ba-fbffaaf20490)
 
 
 ## RESULT
