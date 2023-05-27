@@ -5,6 +5,7 @@
 ## ALGORITHM
 ### STEP-1
   Open notepad and type the HTML code.
+![Screenshot from 2023-05-27 08-34-03](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/8a333d32-9d49-4774-be58-9fac7e8b8c2e)
 
 ### STEP-2
   Insert the college logo using ```<img>``` tag.
@@ -25,9 +26,12 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![Screenshot from 2023-05-27 08-35-32](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/61a4d7e6-89ef-4c02-adc9-da230341fadd)
+![Screenshot from 2023-05-27 08-34-03](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/435aa09c-e4ee-4744-895f-1626bc15530c)
 
 
 ## OUTPUT
+![Screenshot from 2023-05-09 14-47-53](https://github.com/selvasachein/Ex03_Web-Design/assets/128398163/40b8aa56-f202-4336-a3f9-d92367cfb956)
 
 
 ## RESULT
