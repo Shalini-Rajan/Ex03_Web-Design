@@ -30,7 +30,7 @@
 <title>slot timetable</title>
 </head>
 <body>
-<img src="saveethalogo.png"width="1850" height="50" align="center">
+<img src="saveethalogo.png"width="1400" height="150" align="center">
 <h1 style="text-align:center">SLOT TIME TABLE-SALINI P(22005858)</h1>
 <table border=1px solid black width="100%">
 <tr style="background-color:yellow">
@@ -82,7 +82,8 @@
 </html>
 
 ## OUTPUT
-![WhatsApp Image 2023-06-11 at 5 24 39 PM](https://github.com/Shalini-Rajan/Ex03_Web-Design/assets/128398163/a7d5f9c9-6fde-4a8a-9919-ac5ff6b70e13)
+![WhatsApp Image 2023-06-11 at 6 31 04 PM](https://github.com/Shalini-Rajan/Ex03_Web-Design/assets/128398163/64a066ff-a578-4fd4-bae3-a6c9eed501af)
+
 
 
 ## RESULT
