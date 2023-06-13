@@ -25,7 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<html>
+```<html>
 <head>
 <title>slot timetable</title>
 </head>
@@ -80,6 +80,7 @@
 </table>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![WhatsApp Image 2023-06-11 at 6 31 04 PM](https://github.com/Shalini-Rajan/Ex03_Web-Design/assets/128398163/64a066ff-a578-4fd4-bae3-a6c9eed501af)
